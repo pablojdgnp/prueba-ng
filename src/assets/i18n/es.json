@@ -27,8 +27,14 @@
     "coverReceipts": "Carátula y recibos"
   },
   "buttons": {
-
+    "": "Descargar hoja de cálculo",
+    "": "Renovación Sin Cambios",
+    "": "Renovación Con Cambios"
   },
-  "status": {},
+  "status": {
+    "": "Pendiente de renovación",
+    "": "Renovada",
+    "": "En proceso de renovación"
+  },
   "filters": {}
 }
